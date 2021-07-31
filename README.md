@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sheehabmuhammad/sheehabmuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sheehab Muhammad
 
-Here are some ideas to get you started:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheehabmuhammad/) ![Profile views](https://gpvc.arturio.dev/sheehabmuhammad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<p>Software Engineer experienced in Data Mining, Image Processing, Natural Language Processing, Machine Learning & Full-Stack Development.</p>
+
+- 🔭 I’m currently working on development of a fast PHP MVC Framework, and visitor analytics application.
+- 💬 Ask me about anything
+- 📫 How to reach me: contact[at]sheehab.com
 - ⚡ Fun fact: ...
--->
+
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=sheehabmuhammad&show_icons=true&hide_border=true&theme=gotham)
